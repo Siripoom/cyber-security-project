@@ -1,4 +1,4 @@
 # Member
 ## Siripoom Arthornsirirat
-### Tammakorn Prapatummanee
-#### Sumat Sukrungrong
+## Tammakorn Prapatummanee
+## Sumat Sukrungrong
